@@ -1,0 +1,4 @@
+.*
+/allergies/build
+/pig-latin/build
+!/.gitignore
